@@ -1,3 +1,4 @@
+![logo](https://github.com/vikas001352/vikas001352/blob/main/FaceApp_1663440621073.jpg)
 <h1 align="center">Hi 👋, I'm vikas kumar</h1>
 <h3 align="center">A passionate data science from India</h3>
 
@@ -5,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/https://www.instagram.com/p/cjhunektcmj/?utm_source=ig_web_copy_link" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.instagram.com/p/cjhunektcmj/?utm_source=ig_web_copy_link?logo=twitter&style=for-the-badge" alt="https://www.instagram.com/p/cjhunektcmj/?utm_source=ig_web_copy_link" /></a> </p>
 
-- 🔭 I’m currently working on **programming Languages**
+- 🔭 I’m currently working on **Data Science and Analytics**
 
 - 🌱 I’m currently learning **Python,SQL,Julia,Scala,NumPy, pandas, and scikit-learn**
 
-- 👯 I’m looking to collaborate on **oin Data Science Communities**
+- 👯 I’m looking to collaborate on **Establish communication channels**
 
-- 🤝 I’m looking for help with **Data science**
+- 🤝 I’m looking for help with **Data Science and Analytics**
 
 - 💬 Ask me about **+919795238090**
 
