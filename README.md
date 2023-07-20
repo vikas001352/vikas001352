@@ -1,4 +1,4 @@
-![logo](https://github.com/vikas001352/vikas001352/blob/main/FaceApp_1663440621073.jpg)
+![logo](https://github.com/vikas001352/vikas001352/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm vikas kumar</h1>
 <h3 align="center">A passionate Data Science and Analytics from India</h3>
 
